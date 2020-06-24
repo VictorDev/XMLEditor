@@ -37,7 +37,7 @@ namespace DataGridView
             add_textbox.Size = new Size(235,20);
 
             Button add_button = new Button();
-            add_button.Text = "Добавить";
+            add_button.Text = "Add";
             add_button.Click += button3_Click;
             add_button.Location = new Point(start_x, location_y);
 
