@@ -1,0 +1,11 @@
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csprojAssemblyReference.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.New.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.GenerateResource.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\XMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Виктор\Downloads\Новая папка (34)\XMLEditor-master\DataGridView\obj\Debug\DataGridView.pdb
